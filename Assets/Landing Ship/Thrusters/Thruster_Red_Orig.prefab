@@ -30,7 +30,7 @@ GameObject:
   - 12: {fileID: 1200000}
   - 26: {fileID: 2600000}
   m_Layer: 8
-  m_Name: Thruster_Red
+  m_Name: Thruster_Red_Orig
   m_TagString: thruster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,13 +73,13 @@ ParticleAnimator:
     rgba: 1089797887
   colorAnimation[1]:
     serializedVersion: 2
-    rgba: 1632430591
+    rgba: 1644131506
   colorAnimation[2]:
     serializedVersion: 2
-    rgba: 2035067647
+    rgba: 2044411288
   colorAnimation[3]:
     serializedVersion: 2
-    rgba: 1260199345
+    rgba: 1267990625
   colorAnimation[4]:
     serializedVersion: 2
     rgba: 822939409

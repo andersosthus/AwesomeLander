@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 92fd5e9e45e204f4abfac7a2649d3f0f
+timeCreated: 1424453445
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Crescent_UCX_01
+    100004: Crescent_UCX_02
+    100006: Crescent_UCX_03
+    100008: Crescent_UCX_04
+    100010: Crescent_UCX_05
+    100012: Crescent_UCX_06
+    100014: Crescent_UCX_07
+    100016: Crescent_UCX_08
+    100018: Crescent_UCX_09
+    100020: Crescent_UCX_10
+    100022: Crescent_UCX_11
+    100024: Crescent_UCX_12
+    100026: Crescent_UCX_13
+    100028: Crescent_UCX_14
+    100030: Crescent_UCX_15
+    100032: Crescent_UCX_16
+    100034: Crescent_UCX_17
+    400000: //RootNode
+    400002: Crescent_UCX_01
+    400004: Crescent_UCX_02
+    400006: Crescent_UCX_03
+    400008: Crescent_UCX_04
+    400010: Crescent_UCX_05
+    400012: Crescent_UCX_06
+    400014: Crescent_UCX_07
+    400016: Crescent_UCX_08
+    400018: Crescent_UCX_09
+    400020: Crescent_UCX_10
+    400022: Crescent_UCX_11
+    400024: Crescent_UCX_12
+    400026: Crescent_UCX_13
+    400028: Crescent_UCX_14
+    400030: Crescent_UCX_15
+    400032: Crescent_UCX_16
+    400034: Crescent_UCX_17
+    2300000: Crescent_UCX_01
+    2300002: Crescent_UCX_02
+    2300004: Crescent_UCX_03
+    2300006: Crescent_UCX_04
+    2300008: Crescent_UCX_05
+    2300010: Crescent_UCX_06
+    2300012: Crescent_UCX_07
+    2300014: Crescent_UCX_08
+    2300016: Crescent_UCX_09
+    2300018: Crescent_UCX_10
+    2300020: Crescent_UCX_11
+    2300022: Crescent_UCX_12
+    2300024: Crescent_UCX_13
+    2300026: Crescent_UCX_14
+    2300028: Crescent_UCX_15
+    2300030: Crescent_UCX_16
+    2300032: Crescent_UCX_17
+    3300000: Crescent_UCX_01
+    3300002: Crescent_UCX_02
+    3300004: Crescent_UCX_03
+    3300006: Crescent_UCX_04
+    3300008: Crescent_UCX_05
+    3300010: Crescent_UCX_06
+    3300012: Crescent_UCX_07
+    3300014: Crescent_UCX_08
+    3300016: Crescent_UCX_09
+    3300018: Crescent_UCX_10
+    3300020: Crescent_UCX_11
+    3300022: Crescent_UCX_12
+    3300024: Crescent_UCX_13
+    3300026: Crescent_UCX_14
+    3300028: Crescent_UCX_15
+    3300030: Crescent_UCX_16
+    3300032: Crescent_UCX_17
+    4300000: Crescent_UCX_01
+    4300002: Crescent_UCX_02
+    4300004: Crescent_UCX_03
+    4300006: Crescent_UCX_04
+    4300008: Crescent_UCX_05
+    4300010: Crescent_UCX_06
+    4300012: Crescent_UCX_07
+    4300014: Crescent_UCX_08
+    4300016: Crescent_UCX_09
+    4300018: Crescent_UCX_10
+    4300020: Crescent_UCX_11
+    4300022: Crescent_UCX_12
+    4300024: Crescent_UCX_13
+    4300026: Crescent_UCX_14
+    4300028: Crescent_UCX_15
+    4300030: Crescent_UCX_16
+    4300032: Crescent_UCX_17
+    6400000: Crescent_UCX_01
+    6400002: Crescent_UCX_02
+    6400004: Crescent_UCX_03
+    6400006: Crescent_UCX_04
+    6400008: Crescent_UCX_05
+    6400010: Crescent_UCX_06
+    6400012: Crescent_UCX_07
+    6400014: Crescent_UCX_08
+    6400016: Crescent_UCX_09
+    6400018: Crescent_UCX_10
+    6400020: Crescent_UCX_11
+    6400022: Crescent_UCX_12
+    6400024: Crescent_UCX_13
+    6400026: Crescent_UCX_14
+    6400028: Crescent_UCX_15
+    6400030: Crescent_UCX_16
+    6400032: Crescent_UCX_17
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

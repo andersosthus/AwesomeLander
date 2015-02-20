@@ -25,61 +25,61 @@ RenderSettings:
   m_AmbientGroundColor: {r: .0469999984, g: .0430000015, b: .0350000001, a: 1}
   m_AmbientIntensity: 1
   m_AmbientProbe:
-    sh[ 0]: .168264449
-    sh[ 1]: -.0179971326
-    sh[ 2]: -.00791801885
-    sh[ 3]: .00676743733
-    sh[ 4]: -.00194004131
-    sh[ 5]: .00889333524
-    sh[ 6]: .00981241465
-    sh[ 7]: -.00995198824
-    sh[ 8]: .0234114639
-    sh[ 9]: .211248159
-    sh[10]: -.0224065445
-    sh[11]: -.0128999949
-    sh[12]: .0112111988
-    sh[13]: -.00318744825
-    sh[14]: .0150057171
-    sh[15]: .0142606832
-    sh[16]: -.0150673836
-    sh[17]: .0335921086
-    sh[18]: .290544033
-    sh[19]: -.0276671313
-    sh[20]: -.0224602446
-    sh[21]: .0205952972
-    sh[22]: -.0056478614
-    sh[23]: .029032791
-    sh[24]: .0182293449
-    sh[25]: -.0222701356
-    sh[26]: .0408163182
+    sh[ 0]: .114998423
+    sh[ 1]: -.0181267038
+    sh[ 2]: -.010486953
+    sh[ 3]: 9.80587402e-07
+    sh[ 4]: -4.55269827e-07
+    sh[ 5]: .00151017075
+    sh[ 6]: .0123731839
+    sh[ 7]: 2.84800876e-07
+    sh[ 8]: .0173495617
+    sh[ 9]: .119892791
+    sh[10]: -.0209931806
+    sh[11]: -.0183253624
+    sh[12]: 1.76105038e-06
+    sh[13]: -8.80296625e-07
+    sh[14]: .0032678023
+    sh[15]: .0146492887
+    sh[16]: 4.12164525e-07
+    sh[17]: .0194336325
+    sh[18]: .105700701
+    sh[19]: -.0196142271
+    sh[20]: -.0242408998
+    sh[21]: 3.51084736e-06
+    sh[22]: -1.72252442e-06
+    sh[23]: .006734672
+    sh[24]: .0122798281
+    sh[25]: 5.17992817e-07
+    sh[26]: .0131575214
   m_AmbientProbeInGamma:
-    sh[ 0]: .425810188
-    sh[ 1]: -.0267858151
-    sh[ 2]: -.00826613605
-    sh[ 3]: .00892011449
-    sh[ 4]: -.00190406363
-    sh[ 5]: .0137550272
-    sh[ 6]: .0103239492
-    sh[ 7]: -.00831918791
-    sh[ 8]: .0257588048
-    sh[ 9]: .46576339
-    sh[10]: -.0243584923
-    sh[11]: -.0102964342
-    sh[12]: .0112360679
-    sh[13]: -.00235715462
-    sh[14]: .0174229294
-    sh[15]: .0121344477
-    sh[16]: -.0100909155
-    sh[17]: .03005464
-    sh[18]: .529366851
-    sh[19]: -.0175075382
-    sh[20]: -.0132672638
-    sh[21]: .0148998769
-    sh[22]: -.00299420813
-    sh[23]: .0234493203
-    sh[24]: .012676876
-    sh[25]: -.0122031812
-    sh[26]: .0302676558
+    sh[ 0]: .345856428
+    sh[ 1]: -.0317718424
+    sh[ 2]: -.00786232948
+    sh[ 3]: 1.1680587e-06
+    sh[ 4]: -5.32783702e-07
+    sh[ 5]: .00160892773
+    sh[ 6]: .0148669574
+    sh[ 7]: 3.76330803e-07
+    sh[ 8]: .0242696572
+    sh[ 9]: .337572455
+    sh[10]: -.0284667946
+    sh[11]: -.0133045167
+    sh[12]: 1.79897052e-06
+    sh[13]: -9.04038075e-07
+    sh[14]: .00302874483
+    sh[15]: .0158407651
+    sh[16]: 5.07576544e-07
+    sh[17]: .0251047853
+    sh[18]: .293875873
+    sh[19]: -.019024102
+    sh[20]: -.0216891021
+    sh[21]: 3.30005946e-06
+    sh[22]: -1.648173e-06
+    sh[23]: .00627693534
+    sh[24]: .0134794265
+    sh[25]: 8.02094178e-07
+    sh[26]: .0183629375
   m_AmbientMode: 0
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: .5
@@ -146,66 +146,6 @@ NavMeshSettings:
     cellSize: .166666672
     manualCellSize: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &356739395
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 356739397}
-  - 108: {fileID: 356739396}
-  m_Layer: 0
-  m_Name: Directional Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!108 &356739396
-Light:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 356739395}
-  m_Enabled: 1
-  serializedVersion: 6
-  m_Type: 1
-  m_Color: {r: 1, g: .956862748, b: .839215696, a: 1}
-  m_Intensity: 1
-  m_Range: 10
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 2
-    m_Resolution: -1
-    m_Strength: 1
-    m_Bias: .0500000007
-    m_NormalBias: .400000006
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_BounceIntensity: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
-  m_AreaSize: {x: 1, y: 1}
---- !u!4 &356739397
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 356739395}
-  m_LocalRotation: {x: .408217937, y: -.234569728, z: .109381676, w: .875426054}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
 --- !u!1 &1995806900
 GameObject:
   m_ObjectHideFlags: 0
@@ -285,7 +225,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1995806900}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 1, z: -63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

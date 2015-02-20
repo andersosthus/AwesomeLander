@@ -12,7 +12,7 @@ GameObject:
   - 12: {fileID: 1200000}
   - 26: {fileID: 2600000}
   m_Layer: 8
-  m_Name: TinyThruster
+  m_Name: TinyThruster_Orig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,16 +45,16 @@ ParticleAnimator:
   Does Animate Color?: 1
   colorAnimation[0]:
     serializedVersion: 2
-    rgba: 3019890599
+    rgba: 2162673554
   colorAnimation[1]:
     serializedVersion: 2
-    rgba: 1206887503
+    rgba: 2386353627
   colorAnimation[2]:
     serializedVersion: 2
-    rgba: 2035308138
+    rgba: 2687058580
   colorAnimation[3]:
     serializedVersion: 2
-    rgba: 1347111756
+    rgba: 1348440741
   colorAnimation[4]:
     serializedVersion: 2
     rgba: 823201549

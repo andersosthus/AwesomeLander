@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 1fcf172e0eeaf6244a31cada7b489cae
+timeCreated: 1424453444
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sloop_UCX_01
+    100004: Sloop_UCX_02
+    100006: Sloop_UCX_03
+    100008: Sloop_UCX_04
+    100010: Sloop_UCX_05
+    100012: Sloop_UCX_06
+    100014: Sloop_UCX_07
+    100016: Sloop_UCX_08
+    100018: Sloop_UCX_09
+    100020: Sloop_UCX_10
+    100022: Sloop_UCX_11
+    100024: Sloop_UCX_12
+    100026: Sloop_UCX_13
+    400000: //RootNode
+    400002: Sloop_UCX_01
+    400004: Sloop_UCX_02
+    400006: Sloop_UCX_03
+    400008: Sloop_UCX_04
+    400010: Sloop_UCX_05
+    400012: Sloop_UCX_06
+    400014: Sloop_UCX_07
+    400016: Sloop_UCX_08
+    400018: Sloop_UCX_09
+    400020: Sloop_UCX_10
+    400022: Sloop_UCX_11
+    400024: Sloop_UCX_12
+    400026: Sloop_UCX_13
+    2300000: Sloop_UCX_01
+    2300002: Sloop_UCX_02
+    2300004: Sloop_UCX_03
+    2300006: Sloop_UCX_04
+    2300008: Sloop_UCX_05
+    2300010: Sloop_UCX_06
+    2300012: Sloop_UCX_07
+    2300014: Sloop_UCX_08
+    2300016: Sloop_UCX_09
+    2300018: Sloop_UCX_10
+    2300020: Sloop_UCX_11
+    2300022: Sloop_UCX_12
+    2300024: Sloop_UCX_13
+    3300000: Sloop_UCX_01
+    3300002: Sloop_UCX_02
+    3300004: Sloop_UCX_03
+    3300006: Sloop_UCX_04
+    3300008: Sloop_UCX_05
+    3300010: Sloop_UCX_06
+    3300012: Sloop_UCX_07
+    3300014: Sloop_UCX_08
+    3300016: Sloop_UCX_09
+    3300018: Sloop_UCX_10
+    3300020: Sloop_UCX_11
+    3300022: Sloop_UCX_12
+    3300024: Sloop_UCX_13
+    4300000: Sloop_UCX_01
+    4300002: Sloop_UCX_02
+    4300004: Sloop_UCX_03
+    4300006: Sloop_UCX_04
+    4300008: Sloop_UCX_05
+    4300010: Sloop_UCX_06
+    4300012: Sloop_UCX_07
+    4300014: Sloop_UCX_08
+    4300016: Sloop_UCX_09
+    4300018: Sloop_UCX_10
+    4300020: Sloop_UCX_11
+    4300022: Sloop_UCX_12
+    4300024: Sloop_UCX_13
+    6400000: Sloop_UCX_01
+    6400002: Sloop_UCX_02
+    6400004: Sloop_UCX_03
+    6400006: Sloop_UCX_04
+    6400008: Sloop_UCX_05
+    6400010: Sloop_UCX_06
+    6400012: Sloop_UCX_07
+    6400014: Sloop_UCX_08
+    6400016: Sloop_UCX_09
+    6400018: Sloop_UCX_10
+    6400020: Sloop_UCX_11
+    6400022: Sloop_UCX_12
+    6400024: Sloop_UCX_13
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
